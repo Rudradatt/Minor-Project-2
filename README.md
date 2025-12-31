@@ -20,7 +20,7 @@ The project is divided into **two independent modules**, each with its own setup
 
 ## 📦 Module 1: Lab Assistant Robot
 
-**Folder:** `Lab_Assistant_Robot/`
+**Folder:** `Lab Assistant code/`
 
 ### Description
 This module handles the **autonomous movement** of the robot inside the laboratory.  
